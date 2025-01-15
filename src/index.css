@@ -1,0 +1,53 @@
+.navbar{
+    background-color: black !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.navbar-nav{
+    margin-left: auto !important;
+    margin-right:20px !important;
+}
+
+.smallimg{
+    height:200px;
+    width:100% !important;
+    border-radius: 5px !important;
+}
+
+h1{
+    font-size: 20px !important;
+}
+
+.btn{
+    background-color:black !important;
+    color:white !important;
+    box-shadow:none !important;
+}
+
+.bs{
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+    margin-top:20px !important;
+    border-radius: 5px !important;
+    padding:20px !important;
+}
+.big-img{
+    height:250px !important;
+}
+
+input,select{
+    box-shadow:none !important;
+    margin-top:10px;
+}
+
+h2{
+    font-size:30px !important;
+    padding:10px;
+    text-align:center;
+}
