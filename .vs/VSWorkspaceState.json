@@ -1,13 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\backend",
-    "\\backend\\routes",
-    "\\public",
-    "\\src",
-    "\\src\\components",
-    "\\src\\screens"
+    ""
   ],
-  "SelectedNode": "\\backend\\routes\\roomRoute.js",
   "PreviewInSolutionExplorer": false
 }

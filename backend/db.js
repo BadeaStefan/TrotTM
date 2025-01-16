@@ -1,6 +1,9 @@
 import mongoose from "mongoose";
+import dotenv from 'dotenv';
+dotenv.config();
 
 const mongoURL = process.env.DB_KEY;
+
 
 mongoose.connect(mongoURL);
 //mongoose.connect(mongoURL, { useUnifiedTopology: true, useNewUrlParser: true });
